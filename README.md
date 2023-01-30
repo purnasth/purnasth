@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purnasth&label=Profile%20views&color=0e75b6&style=flat" alt="purnasth" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purnasth" alt="purnasth" /></a> </p> -->
-
 - 🌱 I’m currently learning **Vanilla Javascript.**
 
 - 👨🏿‍💻All of my projects are available at [www.purnashrestha.com.np](www.purnashrestha.com.np)
 
 - 📫 How to reach me **purnashrestha0310@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purnasth" alt="purnasth" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
