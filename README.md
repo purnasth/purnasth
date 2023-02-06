@@ -1,8 +1,11 @@
 <!-- [![MasterHead](https://blog.ediri.io/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1641208115267%2FnLBKsGern.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1200&q=75)](https://purnashrestha.com.np) -->
 [![MasterHead](https://user-images.githubusercontent.com/44807606/125307809-c0ddc380-e306-11eb-9155-f5dc796d3163.gif)](https://purnashrestha.com.np)
 <!-- [![MasterHead](https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966)](https://purnashrestha.com.np) -->
-<h1 align="center">Hi 👋🏿, I'm Purna Shrestha</h1>
-<h3 align="center">A passionate frontend developer from Kathmandu, Nepal.</h3>
+<!-- <h1 align="center">Hi 👋🏿, I'm Purna Shrestha</h1> -->
+<!-- <h1 align="center">Greetings!👋🏿, I'm Purna Shrestha, Let's bring some fun to work!</h1> -->
+<h1 align="center">	ज्वजलपा 👋🏿, जिगू नां Purna Shrestha खः।</h1>
+	
+<h3 align="center">I am a quirky front-end developer who brings websites to life. My coding skills are sharp, and my sense of humor is even sharper. When I'm not creating beautiful and functional websites, you can find me cracking jokes and making users smile. Trust me, I take web development seriously, but not myself. Let's create something amazing together!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"/>
 
