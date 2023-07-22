@@ -34,26 +34,26 @@
 <h3>Stats & Streaks:</h3>
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api?username=purnasth&show_icons=true&locale=en"
-    alt="purnasth"
+    alt="purnasth github stats"
   />
   <img
-    align="right"
+    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=purnasth&"
-    alt="purnasth"
+    alt="purnasth github streaks"
   />
 </p>
 
 <!-- <p>
- <img align="left"
+ <img align="center"
     src="https://github-profile-trophy.vercel.app/?username=purnasth"
-    alt="purnasth"
+    alt="purnasth github details"
   />
 
   <img
-  align="right"
+  align="center"
   src="https://github-readme-stats.vercel.app/api/top-langs?username=purnasth&show_icons=true&locale=en&layout=compact"
-    alt="purnasth"
+    alt="purnasth github languages"
   />
 </p> -->
