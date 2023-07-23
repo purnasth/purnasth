@@ -24,11 +24,14 @@
   <a href="https://linkedin.com/in/purna-shrestha-0310ps" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://codepen.io/purnaaa" target="blank">
+    <img src="https://skillicons.dev/icons?i=codepen" />
+  </a>
 </p>
 
 <h3>Languages and Tools:</h3>
 <img
-  src="https://skillicons.dev/icons?i=git,github,html,css,sass,bootstrap,tailwind,js,react,nodejs,php,mysql,c,cpp,py,ps,figma,ae"
+  src="https://skillicons.dev/icons?i=git,github,html,css,sass,bootstrap,tailwind,js,react,nodejs,php,mysql,c,cpp,py,ps,figma,ae,powerpoint"
 />
 
 <h3>Stats & Streaks:</h3>
