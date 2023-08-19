@@ -1,8 +1,7 @@
 <!-- [![MasterHead](https://user-images.githubusercontent.com/44807606/125307809-c0ddc380-e306-11eb-9155-f5dc796d3163.gif)](https://purnashrestha.com.np) -->
 <!-- <h1 align="center">ज्वजलपा 👋🏿, जिगू नां Purna Shrestha खः।</h1> -->
-
 <h1 align="center">
-  नमस्कार 🙏🏿! म   $\mathfrak{{\color{#684da3}\ Purna\ Shrestha\ }}\ $
+  नमस्कार 🙏🏿! म   $\mathfrak{{\color{#9f4bff}\ Purna\ Shrestha\ }}\ $
 </h1>
 <img
   align="right"
@@ -13,7 +12,7 @@
 
 <br />
 <img
-  src="https://komarev.com/ghpvc/?username=purnasth&label=Profile%20views&color=684da3&style=for-the-badge"
+  src="https://komarev.com/ghpvc/?username=purnasth&label=Profile%20views&color=9f4bff&style=for-the-badge"
   alt="Profile Views"
 />
 
@@ -21,7 +20,7 @@
 - 👨🏿‍💻All of my projects are available at [www.purnashrestha.com.np](www.purnashrestha.com.np)
 - 📫 How to reach me **purnashrestha0310@gmail.com**
 
-# $\mathfrak{{\color{#684da3}Connect\ with\ me:}}\ $
+# $\mathfrak{{\color{#9f4bff}Connect\ with\ me:}}\ $
 
 <p align="left">
   <a href="https://linkedin.com/in/purna-shrestha-0310ps" target="blank">
@@ -32,19 +31,19 @@
   </a>
 </p>
 
-<!-- # ${{\color{#684da3}Languages\ and\ Tools:}}\ $ -->
+<!-- # ${{\color{#9f4bff}Languages\ and\ Tools:}}\ $ -->
 
-<!-- # $\mathcal{{\color{#684da3}Languages\ and\ Tools:}}\ $ -->
+<!-- # $\mathcal{{\color{#9f4bff}Languages\ and\ Tools:}}\ $ -->
 
-<!-- # $\mathbb{{\color{#684da3}Languages\ and\ Tools:}}\ $ -->
+<!-- # $\mathbb{{\color{#9f4bff}Languages\ and\ Tools:}}\ $ -->
 
-# $\mathfrak{{\color{#684da3}Languages\ and\ Tools:}}\ $
+# $\mathfrak{{\color{#9f4bff}Languages\ and\ Tools:}}\ $
 
 <img
   src="https://skillicons.dev/icons?i=git,github,html,css,sass,bootstrap,tailwind,js,react,nodejs,php,mysql,c,cpp,py,ps,figma,ae,powerpoint"
 />
 
-# $\mathfrak{{\color{#684da3}Stats\ and\ Streaks:}}\ $
+# $\mathfrak{{\color{#9f4bff}Stats\ and\ Streaks:}}\ $
 
 <p>
   <img
