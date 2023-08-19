@@ -1,7 +1,9 @@
 <!-- [![MasterHead](https://user-images.githubusercontent.com/44807606/125307809-c0ddc380-e306-11eb-9155-f5dc796d3163.gif)](https://purnashrestha.com.np) -->
+<!-- <h1 align="center">ज्वजलपा 👋🏿, जिगू नां Purna Shrestha खः।</h1> -->
 
-<h1 align="center">ज्वजलपा 👋🏿, जिगू नां Purna Shrestha खः।</h1>
-
+<h1 align="center">
+  नमस्कार 🙏🏿! म   $\mathfrak{{\color{#684da3}\ Purna\ Shrestha\ }}\ $
+</h1>
 <img
   align="right"
   alt="Coding"
@@ -11,7 +13,7 @@
 
 <br />
 <img
-  src="https://komarev.com/ghpvc/?username=purnasth&label=Profile%20views&color=0e75b6&style=for-the-badge"
+  src="https://komarev.com/ghpvc/?username=purnasth&label=Profile%20views&color=684da3&style=for-the-badge"
   alt="Profile Views"
 />
 
@@ -19,7 +21,8 @@
 - 👨🏿‍💻All of my projects are available at [www.purnashrestha.com.np](www.purnashrestha.com.np)
 - 📫 How to reach me **purnashrestha0310@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+# $\mathfrak{{\color{#684da3}Connect\ with\ me:}}\ $
+
 <p align="left">
   <a href="https://linkedin.com/in/purna-shrestha-0310ps" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -29,34 +32,51 @@
   </a>
 </p>
 
-<h3>Languages and Tools:</h3>
+<!-- # ${{\color{#684da3}Languages\ and\ Tools:}}\ $ -->
+
+<!-- # $\mathcal{{\color{#684da3}Languages\ and\ Tools:}}\ $ -->
+
+<!-- # $\mathbb{{\color{#684da3}Languages\ and\ Tools:}}\ $ -->
+
+# $\mathfrak{{\color{#684da3}Languages\ and\ Tools:}}\ $
+
 <img
   src="https://skillicons.dev/icons?i=git,github,html,css,sass,bootstrap,tailwind,js,react,nodejs,php,mysql,c,cpp,py,ps,figma,ae,powerpoint"
 />
 
-<h3>Stats & Streaks:</h3>
+# $\mathfrak{{\color{#684da3}Stats\ and\ Streaks:}}\ $
+
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=purnasth&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=purnasth&show_icons=true&locale=en&theme=midnight-purple"
     alt="purnasth github stats"
   />
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=purnasth&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=purnasth&theme=midnight-purple"
     alt="purnasth github streaks"
   />
 </p>
 
 <!-- <p>
  <img align="center"
-    src="https://github-profile-trophy.vercel.app/?username=purnasth"
+    src="https://github-profile-trophy.vercel.app/?username=purnasth&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4"
+    alt="purnasth github details"
+  />
+ <img align="center"
+    src="https://github-profile-trophy.vercel.app/?username=purnasth&theme=onestar&no-frame=true&no-bg=false&margin-w=4"
+    alt="purnasth github details"
+  />
+ <img
+    src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"
     alt="purnasth github details"
   />
 
-  <img
+<img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=purnasth&show_icons=true&locale=en&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=purnasth&show_icons=true&locale=en&layout=compact&theme=midnight-purple"
     alt="purnasth github languages"
   />
+
 </p> -->
