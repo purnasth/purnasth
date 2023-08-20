@@ -107,13 +107,11 @@
 <div align="center">
   <img
     height="180em"
-    width="460em"
     src="https://github-readme-stats-Carol42.vercel.app/api?username=purnasth&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true"
     alt="my github stats"
     />
     <img
     height="180em"
-    width="390em"
     src="https://streak-stats.demolab.com/?user=purnasth&theme=midnight-purple&hide_border=true"
     alt="streak stats"
   />
