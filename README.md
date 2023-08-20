@@ -10,12 +10,12 @@
   /></a>
   <br/>
   <div>
-    <a href="https://github.com/purnasth">
+    <!-- <a href="https://github.com/purnasth">
       <img
         alt="Link to my GitHub"
         src="https://img.shields.io/github/followers/purnasth?style=for-the-badge&labelColor=7E3ACE&color=000000"
       />
-    </a>
+    </a> -->
     <a href="https://badges.strrl.dev"
       ><img
         alt="github repos"
@@ -104,14 +104,16 @@
   />
 </p> -->
 <!--Previous Stats and Streaks-->
-<div>
+<div align="center">
   <img
     height="180em"
+    width="460em"
     src="https://github-readme-stats-Carol42.vercel.app/api?username=purnasth&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true"
     alt="my github stats"
-  />
-  <img
+    />
+    <img
     height="180em"
+    width="390em"
     src="https://streak-stats.demolab.com/?user=purnasth&theme=midnight-purple&hide_border=true"
     alt="streak stats"
   />
