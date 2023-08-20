@@ -1,7 +1,47 @@
-<!-- [![MasterHead](https://user-images.githubusercontent.com/44807606/125307809-c0ddc380-e306-11eb-9155-f5dc796d3163.gif)](https://purnashrestha.com.np) -->
 <!-- <h1 align="center">ज्वजलपा 👋🏿, जिगू नां Purna Shrestha खः।</h1> -->
+
+<div id="top"></div>
+
 <h1 align="center">
-  नमस्कार 🙏🏿! म   $\mathfrak{{\color{#9f4bff}\ Purna\ Shrestha\ }}\ $
+  <a href="https://git.io/typing-svg"
+    ><img
+      src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=450&lines=Welcome+To+My+Profile;नमस्कार 🙏🏿! म Purna Shrestha;A+Fullstack+Developer;Leapfrog+Student+Partner"
+      alt="नमस्कार 🙏🏿! म Purna Shrestha"
+  /></a>
+  <br/>
+  <div>
+    <a href="https://github.com/purnasth">
+      <img
+        alt="Link to my GitHub"
+        src="https://img.shields.io/github/followers/purnasth?style=for-the-badge&labelColor=7E3ACE&color=000000"
+      />
+    </a>
+    <a href="https://badges.strrl.dev"
+      ><img
+        alt="github repos"
+        src="https://badges.strrl.dev/repos/purnasth?color=000000&style=for-the-badge&labelColor=7E3ACE"
+    /></a>
+    <a href="https://badges.strrl.dev"
+      ><img
+        alt="commits today"
+        src="https://badges.strrl.dev/commits/daily/purnasth?color=000000&style=for-the-badge&labelColor=7E3ACE"
+    /></a>
+    <a href="https://badges.strrl.dev"
+      ><img
+        alt="commits this week"
+        src="https://badges.strrl.dev/commits/weekly/purnasth?color=000000&style=for-the-badge&labelColor=7E3ACE"
+    /></a>
+    <a href="https://badges.strrl.dev"
+      ><img
+        alt="commits this month"
+        src="https://badges.strrl.dev/commits/monthly/purnasth?color=000000&style=for-the-badge&labelColor=7E3ACE"
+    /></a>
+    <a href="https://badges.strrl.dev"
+      ><img
+        alt="all commits"
+        src="https://badges.strrl.dev/commits/all/purnasth?color=000000&style=for-the-badge&labelColor=7E3ACE"
+    /></a>
+  </div>
 </h1>
 <img
   align="right"
@@ -9,16 +49,18 @@
   width="400"
   src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"
 />
+<br/>
 
-<br />
 <img
-  src="https://komarev.com/ghpvc/?username=purnasth&label=Profile%20views&color=9f4bff&style=for-the-badge"
+  src="https://komarev.com/ghpvc/?username=purnasth&label=Profile%20views&color=7E3ACE&style=for-the-badge"
   alt="Profile Views"
 />
 
-- 🌱 I’m currently learning **Vite + React.**
-- 👨🏿‍💻All of my projects are available at [www.purnashrestha.com.np](www.purnashrestha.com.np)
-- 📫 How to reach me **purnashrestha0310@gmail.com**
+- 🌱 I'm currently learning **Vite + React.**
+- 👨🏿‍💻All of my projects are available at [www.purnashrestha.com.np](www.purnashrestha.com.np) 
+- 📫 How to reach me **purnashrestha0310@gmail.com** 
+
+<br/>
 
 # $\mathfrak{{\color{#9f4bff}Connect\ with\ me:}}\ $
 
@@ -36,6 +78,7 @@
 <!-- # $\mathcal{{\color{#9f4bff}Languages\ and\ Tools:}}\ $ -->
 
 <!-- # $\mathbb{{\color{#9f4bff}Languages\ and\ Tools:}}\ $ -->
+<br/>
 
 # $\mathfrak{{\color{#9f4bff}Languages\ and\ Tools:}}\ $
 
@@ -43,39 +86,122 @@
   src="https://skillicons.dev/icons?i=git,github,html,css,sass,bootstrap,tailwind,js,react,nodejs,php,mysql,c,cpp,py,ps,figma,ae,powerpoint"
 />
 
+<br/>
+
 # $\mathfrak{{\color{#9f4bff}Stats\ and\ Streaks:}}\ $
 
-<p>
-  <img
+<!--Previous Stats and Streaks-->
+<!-- <p>
+    <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=purnasth&show_icons=true&locale=en&theme=midnight-purple"
     alt="purnasth github stats"
   />
   <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=purnasth&theme=midnight-purple"
+  align="center"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=purnasth&theme=midnight-purple"
     alt="purnasth github streaks"
   />
-</p>
-
-<!-- <p>
- <img align="center"
-    src="https://github-profile-trophy.vercel.app/?username=purnasth&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4"
-    alt="purnasth github details"
-  />
- <img align="center"
-    src="https://github-profile-trophy.vercel.app/?username=purnasth&theme=onestar&no-frame=true&no-bg=false&margin-w=4"
-    alt="purnasth github details"
-  />
- <img
-    src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"
-    alt="purnasth github details"
-  />
-
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=purnasth&show_icons=true&locale=en&layout=compact&theme=midnight-purple"
-    alt="purnasth github languages"
-  />
-
 </p> -->
+<!--Previous Stats and Streaks-->
+<div>
+  <img
+    height="180em"
+    src="https://github-readme-stats-Carol42.vercel.app/api?username=purnasth&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true"
+    alt="my github stats"
+  />
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com/?user=purnasth&theme=midnight-purple&hide_border=true"
+    alt="streak stats"
+  />
+</div>
+<br />
+<div align="center">
+  <img
+    alt="GitHub repo size"
+    src="https://img.shields.io/github/repo-size/purnasth/purnasth?color=9f4bff&logo=github&style=for-the-badge&logoColor=9f4bff"
+  />
+  <img
+    alt="GitHub forks"
+    src="https://img.shields.io/github/forks/purnasth/purnasth?color=9f4bff&logo=github&style=for-the-badge&logoColor=9f4bff"
+  />
+  <img
+    alt="GitHub Repo stars"
+    src="https://img.shields.io/github/stars/purnasth/purnasth?color=9f4bff&logo=github&style=for-the-badge&logoColor=9f4bff"
+  />
+  <img
+    alt="Last commit"
+    src="https://img.shields.io/github/last-commit/purnasth/purnasth?color=9f4bff&logo=git&logoColor&style=for-the-badge"
+  />
+  <img
+    alt="Commit activity"
+    src="https://img.shields.io/github/commit-activity/m/purnasth/purnasth?color=9f4bff&logo=git&logoColor&style=for-the-badge"
+  />
+</div>
+<br />
+
+<!--
+<details>
+<summary>Click here for a cute surprise! :3</summary>
+<img src="https://cat-gifs.cyclic.app">
+</details>
+-->
+
+<br />
+
+<details align="center">
+  <summary>My GitHub stats</summary>
+  <br />
+  <div align="center">
+    <img
+      alt="github achievements"
+      src="https://github-profile-trophy.vercel.app/?username=purnasth&theme=darkhub&no-frame=true&column=10"
+    />
+  </div>
+  <br />
+  <!--Most Used Languages-->
+  <!-- <img height=180em src="https://github-readme-stats-Carol42.vercel.app/api/top-langs/?username=purnasth&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" /> -->
+  <!--Most Used Languages-->
+  <br />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"> </a>
+
+  <!--Github Contributor Stats-->
+  <!-- <img
+      src="https://github-contributor-stats.vercel.app/api?username=purnasth&&theme=midnight-purple"
+      alt="contribution stats"
+    /> -->
+  <!--Github Contributor Stats-->
+  <br />
+  <!--     <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup> -->
+</details>
+
+<br/>
+
+<details align="center">
+  <summary>Profile visitors</summary>
+  <br />
+  <div align="center">
+    <img
+      alt="visitors counter"
+      src="https://profile-counter.glitch.me/purnasth/count.svg"
+    />
+  </div>
+</details>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      alt="Thanks for your visit"
+      src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=9f4bff&center=true&vCenter=true&width=635&lines=Thanks+for+your+visit!;Let's+create+something+amazing+together+!;"
+    />
+  </a>
+</div>
+
+<p align="right">
+  <a href="#top"
+    ><img
+      src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo&hide_border=true&hide_title=true"
+      alt="back to top"
+  /></a>
+</p>
