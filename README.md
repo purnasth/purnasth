@@ -3,44 +3,36 @@
 <div id="top"></div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"
-    ><img
+  <img
       src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=450&lines=Welcome+To+My+Profile;नमस्कार 🙏🏿! म Purna Shrestha;A+Fullstack+Developer;Leapfrog+Student+Partner"
       alt="नमस्कार 🙏🏿! म Purna Shrestha"
-  /></a>
+  />
   <br/>
   <div>
-    <!-- <a href="https://github.com/purnasth">
-      <img
+      <!-- <img
         alt="Link to my GitHub"
         src="https://img.shields.io/github/followers/purnasth?style=for-the-badge&labelColor=7E3ACE&color=000000"
-      />
-    </a> -->
-    <a href="https://badges.strrl.dev"
-      ><img
+      /> -->
+    <img
         alt="github repos"
         src="https://badges.strrl.dev/repos/purnasth?color=000000&style=for-the-badge&labelColor=7E3ACE"
-    /></a>
-    <a href="https://badges.strrl.dev"
-      ><img
+    />
+   <img
         alt="commits today"
         src="https://badges.strrl.dev/commits/daily/purnasth?color=000000&style=for-the-badge&labelColor=7E3ACE"
-    /></a>
-    <a href="https://badges.strrl.dev"
-      ><img
+    />
+    <img
         alt="commits this week"
         src="https://badges.strrl.dev/commits/weekly/purnasth?color=000000&style=for-the-badge&labelColor=7E3ACE"
-    /></a>
-    <a href="https://badges.strrl.dev"
-      ><img
+    />
+    <img
         alt="commits this month"
         src="https://badges.strrl.dev/commits/monthly/purnasth?color=000000&style=for-the-badge&labelColor=7E3ACE"
-    /></a>
-    <a href="https://badges.strrl.dev"
-      ><img
+    />
+   <img
         alt="all commits"
         src="https://badges.strrl.dev/commits/all/purnasth?color=000000&style=for-the-badge&labelColor=7E3ACE"
-    /></a>
+    />
   </div>
 </h1>
 <img
@@ -57,8 +49,8 @@
 />
 
 - 🌱 I'm currently learning **Vite + React.**
-- 👨🏿‍💻All of my projects are available at [www.purnashrestha.com.np](www.purnashrestha.com.np) 
-- 📫 How to reach me **purnashrestha0310@gmail.com** 
+- 👨🏿‍💻All of my projects are available at [www.purnashrestha.com.np](www.purnashrestha.com.np)
+- 📫 How to reach me **purnashrestha0310@gmail.com**
 
 <br/>
 
@@ -159,12 +151,10 @@
       src="https://github-profile-trophy.vercel.app/?username=purnasth&theme=darkhub&no-frame=true&column=10"
     />
   </div>
-  <br />
   <!--Most Used Languages-->
   <!-- <img height=180em src="https://github-readme-stats-Carol42.vercel.app/api/top-langs/?username=purnasth&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" /> -->
   <!--Most Used Languages-->
-  <br />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"> </a>
+  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"> </a> -->
 
   <!--Github Contributor Stats-->
   <!-- <img
@@ -172,7 +162,6 @@
       alt="contribution stats"
     /> -->
   <!--Github Contributor Stats-->
-  <br />
   <!--     <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup> -->
 </details>
 
@@ -190,12 +179,10 @@
 </details>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
     <img
       alt="Thanks for your visit"
       src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=9f4bff&center=true&vCenter=true&width=635&lines=Thanks+for+your+visit!;Let's+create+something+amazing+together+!;"
     />
-  </a>
 </div>
 
 <p align="right">
