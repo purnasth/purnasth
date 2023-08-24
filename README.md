@@ -52,8 +52,6 @@
 - 👨🏿‍💻All of my projects are available at [www.purnashrestha.com.np](www.purnashrestha.com.np)
 - 📫 How to reach me **purnashrestha0310@gmail.com**
 
-<br/>
-
 # $\mathfrak{{\color{#9f4bff}Connect\ with\ me:}}\ $
 
 <p align="left">
@@ -70,15 +68,12 @@
 <!-- # $\mathcal{{\color{#9f4bff}Languages\ and\ Tools:}}\ $ -->
 
 <!-- # $\mathbb{{\color{#9f4bff}Languages\ and\ Tools:}}\ $ -->
-<br/>
 
 # $\mathfrak{{\color{#9f4bff}Languages\ and\ Tools:}}\ $
 
 <img
   src="https://skillicons.dev/icons?i=git,github,html,css,sass,bootstrap,tailwind,js,react,nodejs,php,mysql,c,cpp,py,ps,figma,ae,powerpoint"
 />
-
-<br/>
 
 # $\mathfrak{{\color{#9f4bff}Stats\ and\ Streaks:}}\ $
 
