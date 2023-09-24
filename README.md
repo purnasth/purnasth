@@ -1,5 +1,17 @@
 <!-- <h1 align="center">ज्वजलपा 👋🏿, जिगू नां Purna Shrestha खः।</h1> -->
 
+<!-- $${\color{#9f4bff}Connect \space \color{#ffffff}With \space \color{#9f4bff}Me}$$
+
+> text$${\color{#9f4bff}Connect \space \color{#ffffff}With \space \color{#9f4bff}Me}$$
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+``` -->
+
 <div id="top"></div>
 
 <h1 align="center">
@@ -52,7 +64,17 @@
 - 👨🏿‍💻All of my projects are available at [www.purnashrestha.com.np](www.purnashrestha.com.np)
 - 📫 How to reach me **purnashrestha0310@gmail.com**
 
-# $\mathfrak{{\color{#9f4bff}Connect\ with\ me:}}\ $
+<!-- # $\mathfrak{{\color{#9f4bff}Connect\ with\ me:}}\ $ -->
+
+<!-- $\mathfrak{{\color{#9f4bff}Connect \space \color{#ffffff} with \space \color{#9f4bff} me:}}\ $ -->
+
+<!-- # Connect with me: -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=260&lines=Connect+With+Me+:" alt="Connect with me:"/>
+
+<!-- $${\color{#9f4bff}Connect \space \color{#ffffff}With \space \color{#9f4bff}Me}$$
+
+$${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
 
 <p align="left">
   <a href="https://linkedin.com/in/purna-shrestha-0310ps" target="blank">
@@ -69,13 +91,19 @@
 
 <!-- # $\mathbb{{\color{#9f4bff}Languages\ and\ Tools:}}\ $ -->
 
-# $\mathfrak{{\color{#9f4bff}Languages\ and\ Tools:}}\ $
+<!-- # $\mathfrak{{\color{#9f4bff}Languages\ and\ Tools:}}\ $ -->
+
+<!-- # Languages and Tools: -->
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=315&lines=Languages+And+Tools+:" alt="Languages And Tools:"/>
 
 <img
   src="https://skillicons.dev/icons?i=git,github,html,css,sass,bootstrap,tailwind,js,react,nodejs,php,mysql,c,cpp,py,ps,figma,ae,powerpoint"
 />
 
-# $\mathfrak{{\color{#9f4bff}Stats\ and\ Streaks:}}\ $
+<!-- # $\mathfrak{{\color{#9f4bff}Stats\ and\ Streaks:}}\ $ -->
+
+<!-- # Stats and Streaks: -->
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=270&lines=Stats+And+Streaks+:" alt="Stats And Streaks:"/>
 
 <!--Previous Stats and Streaks-->
 <!-- <p>
