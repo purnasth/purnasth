@@ -208,7 +208,7 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
     />
 </div>
 
-<p align="right">
+<div align="right">
 <!--   <a href="#top"
     ><img
       src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo&hide_border=true&hide_title=true"
@@ -220,4 +220,4 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
       src="https://img.shields.io/badge/Back_To_Top-blueviolet?style=for-the-badge"
       alt="back to top"
   /></a>
-</p>
+</div>
