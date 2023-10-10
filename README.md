@@ -120,11 +120,16 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
 </p> -->
 <!--Previous Stats and Streaks-->
 <div align="center">
-  <img
+<!--   <img
     height="180em"
     src="https://github-readme-stats-Carol42.vercel.app/api?username=purnasth&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true"
     alt="my github stats"
-    />
+    /> -->
+  <img
+    height="180em"
+    src="https://github-readme-stats-Carol42.vercel.app/api?username=purnasth&count_private=true&show_icons=true&theme=midnight-purple&bg_color=0,130F40,000000&hide_border=true&hide_title=true"
+    alt="github stats"
+  />
     <img
     height="180em"
     src="https://streak-stats.demolab.com/?user=purnasth&theme=midnight-purple&hide_border=true"
