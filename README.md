@@ -138,6 +138,17 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
 </div>
 <br />
 <div align="center">
+ <img
+    alt="Commit activity"
+    src="https://github-profile-trophy.vercel.app/?username=purnasth&theme=darkhub&column=9&no-frame=true&margin-w=15&margin-h=15"
+  />
+<!--  <img
+    alt="Commit activity"
+    src="https://github-profile-trophy.vercel.app/?username=purnasth&theme=juicyfresh&column=5&margin-w=15&margin-h=15"
+  /> -->
+</div>
+<br />
+<div align="center">
   <img
     alt="GitHub repo size"
     src="https://img.shields.io/github/repo-size/purnasth/purnasth?color=9f4bff&logo=github&style=for-the-badge&logoColor=9f4bff"
@@ -168,8 +179,8 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
 </details>
 -->
 
-<br />
 
+<!--
 <details align="center">
   <summary>My GitHub stats</summary>
   <br />
@@ -179,6 +190,7 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
       src="https://github-profile-trophy.vercel.app/?username=purnasth&theme=darkhub&no-frame=true&column=10"
     />
   </div>
+  -->
   <!--Most Used Languages-->
   <!-- <img height=180em src="https://github-readme-stats-Carol42.vercel.app/api/top-langs/?username=purnasth&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" /> -->
   <!--Most Used Languages-->
@@ -191,10 +203,12 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
     /> -->
   <!--Github Contributor Stats-->
   <!--     <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup> -->
+  <!--
 </details>
-
+-->
 <br/>
 
+<!--
 <details align="center">
   <summary>Profile visitors</summary>
   <br />
@@ -205,6 +219,7 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
     />
   </div>
 </details>
+-->
 
 <div align="center">
     <img
