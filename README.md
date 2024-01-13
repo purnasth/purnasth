@@ -16,7 +16,7 @@
 
 <h1 align="center">
   <img
-      src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=450&lines=Welcome+To+My+Profile;नमस्कार 🙏🏿! म Purna Shrestha;A+Fullstack+Developer;Leapfrog+Student+Partner"
+      src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=450&lines=Welcome+To+My+Profile;नमस्कार 🙏🏿! म Purna Shrestha;A+Fullstack+Developer;"
       alt="नमस्कार 🙏🏿! म Purna Shrestha"
   />
   <br/>
