@@ -60,7 +60,7 @@
   alt="Profile Views"
 />
 
-- 🌱 I'm currently learning **Vite + React.**
+- 🌱 I'm currently working as a **React Developer**
 - 👨🏿‍💻All of my projects are available at [www.purnashrestha.com.np](www.purnashrestha.com.np)
 - 📫 How to reach me **purnashrestha0310@gmail.com**
 
