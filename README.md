@@ -51,7 +51,7 @@
   align="right"
   alt="Coding"
   width="400"
-  src="https://www.purnashrestha.com.np/assets/hero_cutout-BwGEW87y.png"
+  src="https://purna.pages.dev/assets/hero_cutout-BwGEW87y.png"
 />
 <br/>
 
