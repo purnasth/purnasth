@@ -1,3 +1,13 @@
+# नमस्कार! म Purna Shrestha <img src="https://github.com/user-attachments/assets/cc637feb-2a9b-4f47-9650-969198257272" height="32">
+
+
+![github](https://github.com/user-attachments/assets/a872b53a-b956-4557-9f4b-aa96ab6b6203)
+
+
+<p align="right">- Software Engineer</p>
+
+a UI/UX Designer & Web Developer helping brands build globally through design and code. I bring ideas to life by crafting seamless digital experiences that are both beautiful and functional.
+
 <!-- <h1 align="center">ज्वजलपा 👋🏿, जिगू नां Purna Shrestha खः।</h1> -->
 
 <!-- $${\color{#9f4bff}Connect \space \color{#ffffff}With \space \color{#9f4bff}Me}$$
@@ -14,6 +24,7 @@
 
 <div id="top"></div>
 
+<!--
 <h1 align="center">
   <img
       src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=450&lines=Welcome+To+My+Profile;नमस्कार 🙏🏿! म Purna Shrestha;A+Fullstack+Developer;"
@@ -21,10 +32,10 @@
   />
   <br/>
   <div>
-      <!-- <img
+      <img
         alt="Link to my GitHub"
         src="https://img.shields.io/github/followers/purnasth?style=for-the-badge&labelColor=7E3ACE&color=000000"
-      /> -->
+      />
     <img
         alt="github repos"
         src="https://badges.strrl.dev/repos/purnasth?color=000000&style=for-the-badge&labelColor=7E3ACE"
@@ -54,15 +65,12 @@
   src="https://purna.pages.dev/assets/hero_cutout-BwGEW87y.png"
 />
 <br/>
+-->
 
-<img
-  src="https://komarev.com/ghpvc/?username=purnasth&label=Profile%20views&color=7E3ACE&style=for-the-badge"
-  alt="Profile Views"
-/>
+<!-- - 🌱 I'm currently working as a **React Developer** -->
 
-- 🌱 I'm currently working as a **React Developer**
-- 👨🏿‍💻All of my projects are available at [www.purnashrestha.com.np](www.purnashrestha.com.np)
-- 📫 How to reach me **purnashrestha0310@gmail.com**
+- 👨🏿‍💻 Dive into my world of creations at [www.purnashrestha.com.np](www.purnashrestha.com.np) — where ideas come alive!
+<!-- - 📫 How to reach me **purnashrestha0310@gmail.com** -->
 
 <!-- # $\mathfrak{{\color{#9f4bff}Connect\ with\ me:}}\ $ -->
 
@@ -70,12 +78,13 @@
 
 <!-- # Connect with me: -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=260&lines=Connect+With+Me+:" alt="Connect with me:"/>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=260&lines=Connect+With+Me+:" alt="Connect with me:"/> -->
 
 <!-- $${\color{#9f4bff}Connect \space \color{#ffffff}With \space \color{#9f4bff}Me}$$
 
 $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
 
+<!--
 <p align="left">
   <a href="https://linkedin.com/in/purna-shrestha-0310ps" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -84,6 +93,7 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
     <img src="https://skillicons.dev/icons?i=codepen" />
   </a>
 </p>
+-->
 
 <!-- # ${{\color{#9f4bff}Languages\ and\ Tools:}}\ $ -->
 
@@ -94,16 +104,19 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
 <!-- # $\mathfrak{{\color{#9f4bff}Languages\ and\ Tools:}}\ $ -->
 
 <!-- # Languages and Tools: -->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=315&lines=Languages+And+Tools+:" alt="Languages And Tools:"/>
+
+## Skills And Tools:
+
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=315&lines=Languages+And+Tools+:" alt="Languages And Tools:"/> -->
 
 <img
-  src="https://skillicons.dev/icons?i=git,github,html,css,sass,bootstrap,tailwind,js,react,nodejs,php,mysql,c,cpp,py,ps,figma,ae,powerpoint"
+    src="https://skillicons.dev/icons?i=git,github,html,css,sass,bootstrap,tailwind,js,ts,react,threejs,nextjs,nodejs,express,java,mysql,postgres,mongodb,graphql,python,django,c,cpp,cs,cloudflare,aws,azure,gcp,docker,kubernetes,linux,bash,ps,figma,ae,md,pr,apple,windows"
 />
 
 <!-- # $\mathfrak{{\color{#9f4bff}Stats\ and\ Streaks:}}\ $ -->
 
 <!-- # Stats and Streaks: -->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=270&lines=Stats+And+Streaks+:" alt="Stats And Streaks:"/>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=270&lines=Stats+And+Streaks+:" alt="Stats And Streaks:"/> -->
 
 <!--Previous Stats and Streaks-->
 <!-- <p>
@@ -118,6 +131,11 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
     alt="purnasth github streaks"
   />
 </p> -->
+
+## Stats and Streaks:
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purnasth&hide_progress=false) -->
+
 <!--Previous Stats and Streaks-->
 <div align="center">
 <!--   <img
@@ -147,7 +165,7 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
     src="https://github-profile-trophy.vercel.app/?username=purnasth&theme=juicyfresh&column=5&margin-w=15&margin-h=15"
   /> -->
 </div>
-<br />
+<!-- <br />
 <div align="center">
   <img
     alt="GitHub repo size"
@@ -170,7 +188,7 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
     src="https://img.shields.io/github/commit-activity/m/purnasth/purnasth?color=9f4bff&logo=git&logoColor&style=for-the-badge"
   />
 </div>
-<br />
+<br /> -->
 
 <!--
 <details>
@@ -178,7 +196,6 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
 <img src="https://cat-gifs.cyclic.app">
 </details>
 -->
-
 
 <!--
 <details align="center">
@@ -221,23 +238,27 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
 </details>
 -->
 
-<div align="center">
-    <img
-      alt="Thanks for your visit"
-      src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=9f4bff&center=true&vCenter=true&width=635&lines=Thanks+for+your+visit!;Let's+create+something+amazing+together+!;"
-    />
-</div>
-
-<div align="right">
-<!--   <a href="#top"
-    ><img
-      src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo&hide_border=true&hide_title=true"
-      alt="back to top"
-  /></a> -->
-  
-  <a href="#top"
-    ><img
-      src="https://img.shields.io/badge/Back_To_Top-blueviolet?style=for-the-badge"
-      alt="back to top"
-  /></a>
-</div>
+<table>
+  <tr>
+    <td align="left" width="20%">
+      <img
+        src="https://komarev.com/ghpvc/?username=purnasth&label=Profile%20views&color=7E3ACE&style=for-the-badge"
+        alt="Profile Views"
+      />
+    </td>
+    <td align="center" width="60%">
+      <img
+        alt="Thanks for your visit"
+        src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=9f4bff&center=true&vCenter=true&width=635&lines=Thanks+for+your+visit!;Let's+create+something+amazing+together+!;"
+      />
+    </td>
+    <td align="right" width="20%">
+      <a href="#top">
+        <img
+          src="https://img.shields.io/badge/Back_To_Top-blueviolet?style=for-the-badge"
+          alt="back to top"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
