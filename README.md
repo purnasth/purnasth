@@ -1,5 +1,6 @@
 # नमस्कार! म Purna Shrestha <img src="https://github.com/user-attachments/assets/cc637feb-2a9b-4f47-9650-969198257272" height="32">
 
+[![committers.top badge](https://user-badge.committers.top/nepal/purnasth.svg)](https://user-badge.committers.top/nepal/purnasth)
 
 ![github](https://github.com/user-attachments/assets/a872b53a-b956-4557-9f4b-aa96ab6b6203)
 
