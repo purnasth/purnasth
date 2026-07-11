@@ -1,0 +1,7 @@
+# Source photo for the ASCII portrait — used locally by generate_portrait.py,
+# not needed in the repo since the art is already baked into the SVGs.
+purna-shrestha.png
+
+# Python cruft
+__pycache__/
+*.pyc

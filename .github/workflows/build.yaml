@@ -1,0 +1,35 @@
+name: Metrics build
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:      # lets you run it manually from the Actions tab
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: python -m pip install -r metrics/cache/requirements.txt
+      - name: Update stats SVGs
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          USER_NAME: ${{ secrets.USER_NAME }}
+        working-directory: metrics
+        run: python today.py
+      - name: Commit
+        run: |-
+          git add .
+          git config --global user.email "github-actions-bot@users.noreply.github.com"
+          git config --global user.name "purnasth-bot"
+          git commit -m "Update GitHub stats" -a || echo "No changes to commit"
+          git push
