@@ -6,16 +6,18 @@ on:
   schedule:
     - cron: "0 4 * * *"
   workflow_dispatch:      # lets you run it manually from the Actions tab
+permissions:
+  contents: write         # allow the Action to push the updated SVGs back
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 1
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
       - name: Install dependencies
